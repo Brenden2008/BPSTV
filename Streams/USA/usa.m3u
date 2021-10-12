@@ -2635,3 +2635,967 @@ https://d2m23yiuv18ohn.cloudfront.net/Video/KUxzt3zBQHQUUgOXJiwBcQ/360p.mp4
 
 
 # Xumo Streams End Here
+
+
+
+# Tubi Streams Start  Here
+
+
+#EXTINF:-1 tvg-id="WTAETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="",ABC 4 Pittsburg PA (WTAE) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 tvg-id="WEWSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1" group-title="Local",ABC 5 Cleveland OH (WEWS-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
+#EXTINF:-1 tvg-id="KOCOTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="",ABC 5 Oklahoma City OK (KOCO) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 tvg-id="WXYZTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="Local",ABC 7 Detroit MI (WXYZ-TV) (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+#EXTINF:-1 tvg-id="KETVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BuO1yHQ.png" group-title="",ABC 7 Omaha NE (KETV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 tvg-id="KMBCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DCBHkiP.jpg" group-title="News",ABC 9 Kansas City MO (KMBC-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 tvg-id="WMURTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6oNx5F0.png" group-title="Local",ABC 9 Manchester NH (WMUR-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 tvg-id="AnAmericanChristmasCarol.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Movies",An American Christmas Carol (720p)
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GMAT4VE.jpg" group-title="News",Black News Channel (720p)
+https://lnc-black-news.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="General",Bloomberg Quicktake (720p)
+https://csm-e-eb.csm.tubi.video/csm/live/283326845.m3u8
+#EXTINF:-1 tvg-id="CBCNewsHighlights.ca" tvg-country="CA" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News",CBC News Highlights (720p)
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="News",Estrella News (720p)
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 tvg-id="WJBK.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="News",FOX 2 Detroit MI (WJBK) (720p) [Offline]
+https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KTVUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/18isSVd.png" group-title="News",FOX 2 San Francisco CA (KTVU) (720p) [Offline]
+https://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KDFWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gjIKpMJ.png" group-title="News",FOX 4 Dallas / Fort Worth TX (KDFW) (720p) [Offline]
+https://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WAGATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News",FOX 5 Atlanta GA (WAGA-TV) (720p) [Offline]
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WNYWTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OfGcsUO.png" group-title="Local",FOX 5 New York NY (WNYW) (720p) [Offline]
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WTTGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="Local",FOX 5 Washington DC (WTTG) (720p) [Offline]
+https://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WITITV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qmOd9Yr.jpg" group-title="Local",FOX 6 Milwaukee WI (WITI) (720p) [Offline]
+https://lnc-witi-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KTBCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ugLwGEY.png" group-title="News",FOX 7 Austin TX (KTBC) (720p) [Offline]
+https://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KMSPTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WBgiaiB.jpg" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP) (720p) [Offline]
+https://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KZAS.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TCzjchS.jpg" group-title="News",FOX 10 Phoenix AZ (KZAS) (720p) [Offline]
+https://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KTTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/us-fox-11-los-angeles.jpg" group-title="News",FOX 11 Los Angeles CA (KTTV) (720p) [Offline]
+https://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WHBQTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/E9vX12j.jpg" group-title="Local",FOX 13 Memphis TN (WHBQ-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+#EXTINF:-1 tvg-id="WTVTTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bvkri2L.png" group-title="Local",FOX 13 Tampa Bay FL (WTVT) (720p) [Offline]
+https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KRIV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="News",FOX 26 Houston TX (KRIV) (720p) [Offline]
+https://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WTXFTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="Local",FOX 29 Philadelphia PA (WTXF-TV) (720p) [Offline]
+https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WFLDTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lf5sLNn.png" group-title="Local",FOX 32 Chicago IL (WFLD) (720p) [Offline]
+https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WOFLTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BOA8KKZ.jpg" group-title="Local",FOX 35 Orlando FL (WOFL) (720p) [Offline]
+https://lnc-wofl-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KCPQTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4xs5ERr.jpg" group-title="News",FOX Q13 Seattle WA (KCPQ) (720p) [Offline]
+https://lnc-kcpq-fox-aws.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (720p)
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WLWTTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7erOEZJ.gif" group-title="News",NBC 5 Cincinnati OH (WLWT) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+#EXTINF:-1 tvg-id="WDSUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cB1bxJw.jpg" group-title="News",NBC 6 New Orleans LA (WDSU) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="Local",News 12 New York (1080p)
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
+#EXTINF:-1 tvg-id="Pattrn.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" group-title="Weather",Pattrn (720p)
+https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7SarjaU.png" group-title="Entertainment",People TV (1080p)
+https://lnc-people-tv.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7SarjaU.png" group-title="Entertainment",People TV (720p)
+https://csm-e-cetubiausw2live204-0d03c1c1e1332a1c7.csm.tubi.video/csm/live/241832244.m3u8
+#EXTINF:-1 tvg-id="SantaandtheThreeBears.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Family",Santa and the Three Bears (480p)
+https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+#EXTINF:-1 tvg-id="VeryAlabama.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Very Alabama (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
+
+
+# Tubi Streams End Here
+
+
+# Misc. streams here
+
+
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies (720p)
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="Sports",ACC Network (1080p) [Offline]
+https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AFV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="Comedy",AFV (720p)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVenEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" group-title="Comedy",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Asiancrush.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Entertainment",Asiancrush (720p) [Offline]
+https://ac-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Bambu.us" tvg-country="US" tvg-language="" tvg-logo="" group-title="",Bambu [Offline]
+https://bambu-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="KMTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="Local",CBS 3 Omaha NE (KMTV-TV) (1080p) [Offline]
+https://kmtvnow-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="News",Cheddar News (1080p)
+https://cheddar.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Choppertown.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522" group-title="Auto",Choppertown (720p) [Not 24/7]
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png" group-title="Comedy",Comedy Dynamics (1080p)
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Entertainment",CONtv (1080p)
+https://contv-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Animation",CONtv Anime (1080p)
+https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Crackle.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Movies",Crackle (720p)
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360 (1080p) [Offline]
+https://aenetworks-crime360-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Series",Dark Matter TV (720p)
+https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Series",Deal or No Deal (1080p) [Offline]
+https://endemol-dealornodeal-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",Docurama (1080p)
+https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel (1080p)
+https://dove-channel.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aAUbLhE.png" group-title="Sports",EDGEsport (1080p)
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="News",Estrella News (1080p)
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4PiLKrm.png" group-title="Entertainment",Estrella TV East (1080p)
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews en Español (720p)
+https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews English (720p)
+https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="Comedy",FailArmy (1080p) [Offline]
+https://failarmy-linear.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmyInternational.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="Comedy",FailArmy International (540p) [Offline]
+https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="",FilmStreams (1080p) [Offline]
+https://spi-filmstream-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FreebieTV.us_plex" tvg-country="" tvg-language="" tvg-logo="" group-title="",Freebie TV (720p) [Not 24/7]
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network East (540p) [Offline]
+https://gsn-gameshowchannnel-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GFNTV.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/V5CTsI0.png" group-title="",GFN TV (720p) [Not 24/7]
+https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
+#EXTINF:-1 tvg-id="GlewedTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/W4Bx9pG.jpg" group-title="General",Glewed TV (720p) [Offline]
+https://glewedtv-3.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Movies",Gravitas Movies (720p) [Offline]
+https://gravitas-movies.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="Cooking",Gusto TV (1080p)
+https://gustous-plex.amagi.tv/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/playlist.m3u8?X-Plex-Token=MorUy57ijWhGe4ixZb_T&channelId=5f8746eabd529300418246d9&did=df8e1a36-847d-5096-86a7-3803ed330ede&dnt=0&us_privacy=1---
+#EXTINF:-1 tvg-id="HardKnocks.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/ixAkq26.png" group-title="",Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-id="HiYAH" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/uMPu5HU.png" group-title="Entertainment",Hi-YAH! (1080p)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="HollywoodClassics.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HollywoodClassics_v2_290x290.png?raw=true" group-title="Classic",Hollywood Classics (1080p) [Offline]
+https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lYqcF1P.png" group-title="Comedy",Humor Mill (1080p) [Not 24/7]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
+#EXTINF:-1 tvg-id="IGN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ff62vtM.jpg" group-title="News",IGN (1080p)
+https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="IGN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ff62vtM.jpg" group-title="News",IGN (1080p)
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JudgeFaith.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VMJvKbC.png" group-title="Series",Judge Faith (1080p) [Offline]
+https://judge-faith-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.us" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (720p) [Offline]
+https://kidoodletv-kdtv-2.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="Music",Latido Music (1080p)
+https://vidaprimo-plex.amagi.tv/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="Music",Latido Music (1080p)
+https://vidaprimo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Documentary",Law & Crime (720p)
+https://lawandcrime-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LIT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FPEisf1.png" group-title="",LIT (1080p) [Offline]
+https://studio1-lit-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LivelyPlace.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n5lMm78.png" group-title="Lifestyle",Lively Place (1080p) [Offline]
+https://aenetworks-ae-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopBeastModeWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/fb8c7ba652305a8700924347d46dcdff.jpeg" group-title="Music",Loop Beast Mode West (1080p) [Geo-blocked]
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/master.m3u8
+#EXTINF:-1 tvg-id="LoopElectronicaWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg" group-title="Music",Loop Electronica West (1080p) [Not 24/7]
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
+#EXTINF:-1 tvg-id="LoopHipHopWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="Music",Loop Hip-Hop West (1080p)
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
+#EXTINF:-1 tvg-id="LoopPartyWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="Music",Loop Party West (1080p)
+https://0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_plex/master.m3u8
+#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="Documentary",Magellan TV Now (720p) [Offline]
+https://magellantv-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (720p) [Offline]
+https://maverick-maverick-black-cinema-2.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTVSelect.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjgzNzU2MTNf?inline=1" group-title="Sports",MavTV Select (1080p) [Offline]
+https://mavtv-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MidnightPulp.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" group-title="Entertainment",Midnight Pulp (1080p)
+https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=263&ads.wurl_name=MidnightPulp
+#EXTINF:-1 tvg-id="MidnightPulp.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" group-title="Entertainment",Midnight Pulp (1080p) [Offline]
+https://midnightpulp-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere (1080p)
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NeuralFocused.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ymFMMn8.png" group-title="Music",Neural Focused [Offline]
+https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="Local",News 12 New York (1080p)
+https://cheddar-news12ny-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="News",Newsmax (1080p)
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Series",Nosey (1080p) [Offline]
+https://nosey-2.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="Outdoor",Outdoor America (720p) [Not 24/7]
+https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
+#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="Entertainment",People are Awesome (1080p) [Offline]
+https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="Entertainment",People are Awesome (720p) [Offline]
+https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
+#EXTINF:-1 tvg-id="PlayWorks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/McoboB1.png" group-title="Entertainment",Play.Works (1080p)
+https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https://app.plex.tv&ads.consent=0&ads.gdpr=1&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.ua=Mozilla/5.0+(Windows+NT+6.1;+rv:83.0)+Gecko/20100101+Firefox/83.0&ads.us_privacy=1---&ads.wurl_channel=512&ads.wurl_name=PlayWorks
+#EXTINF:-1 tvg-id="PlayWorks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/McoboB1.png" group-title="Entertainment",Play.Works (1080p) [Offline]
+https://playworksdigital-playworks-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="pocketwatch.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="",pocket.watch (720p) [Offline]
+https://pocketwatch.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PopstarTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mWrqBaS.png" group-title="Entertainment",Popstar! TV (1080p) [Not 24/7]
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="a9d5c8" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family",Real Families (1080p)
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Realnosey.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eVB5iNV.png" group-title="",Real nosey (1080p) [Offline]
+https://nosey-realnosey-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RealStories.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J6dpNiD.png" group-title="",Real Stories (1080p)
+https://lds-realstories-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCrushTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkzNDRf/RetroCrush_576x576.png" group-title="",RetroCrush TV (1080p)
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush
+#EXTINF:-1 tvg-id="RetroCrushTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkzNDRf/RetroCrush_576x576.png" group-title="",RetroCrush TV (1080p) [Offline]
+https://digitalmediarights-retrocrush-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Reuters.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Reuters (720p)
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry (720p) [Not 24/7]
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry2.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry 2 (720p) [Offline]
+https://0bef58ceebc44ecbba8ed46a4b17de0c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-PLEX/09eef831-6e1a-4f60-a138-77c0a1da8e06/0.m3u8
+#EXTINF:-1 tvg-id="RevryNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AdIThwq.png" group-title="Lifestyle",Revry News (720p) [Not 24/7]
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RunTimeFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Movies",RunTime (1080p)
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RuntimeSpain.us" tvg-country="US" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="",Runtime (Spain) (1080p)
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RushbyAMC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sUwYQ6o.png" group-title="Movies",Rush by AMC (1080p) [Offline]
+https://amc-rushbyamc-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SkillsPlusThrills.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="",Skills + Thrills (1080p) [Offline]
+https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SoReal.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="Lifestyle",So... Real (1080p)
+https://cinedigm-so-real-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/46gdAeg.png" group-title="Sports",SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium (720p) [Offline]
+https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Tankee.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oMWbZ8n.png" group-title="Entertainment",Tankee (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?app_bundle=com.plexapp.desktop&app_domain=app.plex.tv&app_name=plex&content_series=5f12332eeca6a20040b328e5&content_title=MorUy57ijWhGe4ixZb_T&coppa=1&custom4=plex&device_make=Windows&device_model=Firefox&did=df8e1a36-847d-5096-86a7-3803ed330ede&gdpr=1&h=691&live=1&network_id=39&us_privacy=1---&w=1224
+#EXTINF:-1 tvg-id="Tankee.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oMWbZ8n.png" group-title="Kids",Tankee (720p) [Offline]
+https://playworksdigital-tankee-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade (1080p)
+https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBoatShow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iYDR5VS.jpg" group-title="Outdoor",The Boat Show (720p) [Offline]
+https://vitor-theboatshow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="Culture",The Bob Ross Channel (1080p)
+https://cinedigm-bobross-1.plex.wurl.com/master.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="Lifestyle",The Design Network (720p)
+https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective (720p)
+https://filmdetective-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/master.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective (720p)
+https://filmdetective-plex.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective (720p) [Offline]
+https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective (720p) [Offline]
+https://the-pet-collective-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Timeline.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="Entertainment",Timeline (1080p)
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVClassics.us" tvg-country="US" tvg-language="English" tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png" group-title="Classic",TV Classics (720p)
+https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
+#EXTINF:-1 tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="Entertainment",VENN (1080p)
+https://venntv-plex.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6r2YHtv.png" group-title="Outdoor",Waypoint TV (360p) [Offline]
+https://waypointtv-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather",WeatherSpy (1080p) [Offline]
+https://jukin-weatherspy-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather",WeatherSpy (720p) [Offline]
+https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
+#EXTINF:-1 tvg-id="WhistleSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",Whistle Sports (720p) [Offline]
+https://whistle-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WipeoutXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" group-title="Series",Wipeout Xtra (1080p) [Offline]
+https://endemol-wipeoutxtra-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="",Wonder (1080p)
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="Entertainment",World Poker Tour (1080p) [Not 24/7]
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Entertainment",Xplore (1080p)
+https://xplore-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303" group-title="Business",Yahoo! Finance (1080p)
+https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303" group-title="Business",Yahoo! Finance (1080p)
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YuyuTV.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/Bbvtcd7.png" group-title="",Yuyu TV (1080p) [Offline]
+https://yuyu-samsung.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="Sports",ACC Network (1080p) [Offline]
+https://120sports-accdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AFV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="Comedy",AFV (720p)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVenEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" group-title="Comedy",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasVoice.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="News",America's Voice (720p)
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GMAT4VE.jpg" group-title="News",Black News Channel (1080p)
+https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GMAT4VE.jpg" group-title="News",Black News Channel (1080p)
+https://bnc-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting (1080p)
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="General",Bloomberg Quicktake (1080p)
+https://bloomberg-quicktake-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (1080p)
+https://bonappetit-roku-us.amagi.tv/hls/amagi_hls_data_condenast-bonappetitroku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV (1080p)
+https://brat-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/BUZZR_190x190.png?raw=true" group-title="Entertainment",Buzzr (1080p)
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="News",Cheddar News (1080p)
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="News",Cheddar News (720p)
+https://cheddar.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="",Cine Sureño (1080p)
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzI4NjE5OTZf?inline=1" group-title="Classic",Cinevault Westerns (540p)
+https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzI4NjE5OTZf?inline=1" group-title="Classic",Cinevault Westerns (540p) [Offline]
+https://gsn-cinevault-westerns-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Circle.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1" group-title="Entertainment",Circle (1080p)
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cocoro.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro (1080p)
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1 tvg-id="Cocoro.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro (1080p) [Offline]
+https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Animation",CONtv Anime (1080p)
+https://contvanime-roku-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360 (1080p) [Offline]
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Series",Deal or No Deal (1080p) [Offline]
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel (1080p)
+https://dovenow-roku-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aAUbLhE.png" group-title="Sports",EDGEsport (1080p)
+https://edgesports-roku.amagi.tv/hls/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="News",Estrella News (1080p)
+https://estrellanews-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellanews-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="News",Estrella News (1080p)
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4PiLKrm.png" group-title="Entertainment",Estrella TV East (1080p)
+https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4PiLKrm.png" group-title="Entertainment",Estrella TV East (1080p)
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews en Español (720p)
+https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews English (720p)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FidoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kvdqP3H.jpg" group-title="Entertainment",Fido TV (1080p)
+https://fidotv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
+https://fox-foxsoul-roku.amagi.tv/hls/amagi_hls_data_foxAAAAAA-foxsoul-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FTF.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="Sports",FTF (720p)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GameShowNetworkWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network West (1080p) [Offline]
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LLJiIEB.png" group-title="",Hallmark Channel East [Offline]
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Kids",HappyKids (1080p)
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HauntTV.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="Series",Haunt TV (1080p)
+https://haunttv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HiYAH" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/uMPu5HU.png" group-title="Entertainment",Hi-YAH! (1080p)
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Horrify.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NCbpYa4.png" group-title="Movies",Horrify (1080p)
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-horrify-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Horrify.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NCbpYa4.png" group-title="Movies",Horrify (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 tvg-id="iFoodTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GnmHLNB.png" group-title="Cooking",iFood.TV (1080p)
+https://ft-ifood-roku.amagi.tv/hls/amagi_hls_data_futuretod-ifood-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="iFoodTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GnmHLNB.png" group-title="Cooking",iFood.TV (1080p)
+https://ft-ifood-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Juntos.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UbomgHT.png" group-title="Series",Juntos (1080p)
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Juntos.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UbomgHT.png" group-title="Series",Juntos (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1 tvg-id="KetchupTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NOX2zse.png" group-title="Kids",Ketchup TV (1080p) [Offline]
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="KidGamerTV.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Kid Gamer TV [Offline]
+https://studio71-roku-us.amagi.tv/hls/amagi_hls_data_studio71A-studio71roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Kidoodle.us" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (1080p) [Offline]
+http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="KidzBop.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/19namZP.jpg" group-title="Kids",Kidz Bop (1080p)
+https://kidzbop-rokuus.amagi.tv/hls/amagi_hls_data_kidzbopAA-kidzbop-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LivelyPlace.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n5lMm78.png" group-title="Lifestyle",Lively Place (1080p) [Offline]
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Loop80sEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="Music",Loop 80s East (1080p) [Geo-blocked]
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Loop80sEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="Music",Loop 80s East (1080p) [Geo-blocked]
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Loop90sEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K8YV2bR.png" group-title="Music",Loop 90s East (1080p)
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopCountryEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Music",Loop Country East (1080p)
+https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopCountry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Music",Loop Country East (1080p) [Offline]
+https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopHipHopEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="Music",Loop Hip-Hop East (1080p)
+https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopHottestEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NY9dKoR.png" group-title="Music",Loop Hottest East (1080p)
+https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopPartyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="Music",Loop Party East (1080p)
+https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LXpqmgn.jpg" group-title="Outdoor",Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNatureEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LXpqmgn.jpg" group-title="Outdoor",Love Nature Español (1080p)
+https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MadeinHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQK6GMj.png" group-title="Movies",Made in Hollywood (720p) [Offline]
+https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (1080p) [Offline]
+https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTVSelect.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjgzNzU2MTNf?inline=1" group-title="Sports",MavTV Select (1080p) [Offline]
+https://mavtv-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MidnightPulp.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="",Midnight Pulp (1080p) [Offline]
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonBug.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",MoonBug (1080p)
+https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" group-title="Kids",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere (1080p)
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere (1080p)
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MST3K.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1xJJB7C.jpg" group-title="Entertainment",MST3K (1080p)
+https://mst3k-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network (1080p)
+https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="NewKidTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Kids",New Kid TV (1080p)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF:-1 tvg-id="NewKidTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Kids",New Kid TV (1080p) [Offline]
+https://newidco-newkid-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="News",Newsmax (1080p)
+https://newsmax-roku-us.amagi.tv/hls/amagi_hls_data_newsmaxAA-newsmax/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Series",Nosey (1080p) [Offline]
+https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="News",OAN (1080p)
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="News",OAN (720p)
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="OANEncore.us" tvg-country="" tvg-language="English" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News",OAN Encore
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="Outdoor",Outside TV (1080p)
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="Sports",Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PinkfongBabyShark.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",Pinkfong Baby Shark (1080p)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="PinkfongBabyShark.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",Pinkfong Baby Shark (1080p) [Offline]
+https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="Sports",Players TV (1080p)
+https://playerstv-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="pocketwatch.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="",pocket.watch (720p) [Offline]
+https://pocketwatch.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iJmj6zC.png" group-title="Auto",Power Nation (720p) [Offline]
+https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Realnosey.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eVB5iNV.png" group-title="",Real nosey (1080p) [Offline]
+https://nosey-realnosey-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Redbox1Spotlight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="",Redbox 1: Spotlight (1080p)
+https://spotlight-rokuus.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkzNDRf/RetroCrush_576x576.png" group-title="",RetroCrush TV (1080p) [Offline]
+https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersNow.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="",Reuters Now (1080p)
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry (720p)
+https://linear-45.frequency.stream/dist/roku/45/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RuntimeSpain.us" tvg-country="US" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="",Runtime (Spain) (1080p)
+https://runtime-espanol-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uG675tT.png" group-title="",Ryan and Friends (720p) [Offline]
+https://pocketwatch-ryanandfriends-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SamuelGoldwynChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oCjZS0v.jpg" group-title="",Samuel Goldwyn Channel (1080p)
+https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SamuelGoldwynClassics.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oCjZS0v.jpg" group-title="Classic",Samuel Goldwyn Classics (1080p)
+https://samuelgoldwyn-classic-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SkillsPlusThrillsChannel2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="",Skills + Thrills Channel 2 (1080p) [Offline]
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalComedias.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="",Sony Canal Comedias (720p) [Offline]
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalCompetencias.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="",Sony Canal Competencias (720p) [Offline]
+https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="Movies",Sony Canal Novelas (720p) [Offline]
+https://sony-novelas-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="",Sony Canal Novelas (720p) [Offline]
+https://sony-novelas-1.roku.wurl.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium (720p)
+https://stadium.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dEmt8Fv.png" group-title="Classic",The Carol Burnett Show (1080p)
+https://carolburnett-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCraftistry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KIzpKhL.png" group-title="Lifestyle",The Craftistry (1080p)
+https://studio71-craftistry-roku.amagi.tv/hls/amagi_hls_data_studio71A-craftistry-rokuA/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCraftistry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KIzpKhL.png" group-title="Lifestyle",The Craftistry (1080p)
+https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="Lifestyle",The Design Network (1080p) [Offline]
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lbOPCEJ.png" group-title="Series",This Old House (1080p) [Offline]
+https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCine.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine (1080p)
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCine.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten (1080p)
+https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten (1080p)
+https://unbeaten-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="Entertainment",VENN (1080p)
+https://venntv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="Weather",Weather Nation (720p) [Geo-blocked]
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WhistleSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",Whistle Sports (1080p) [Offline]
+https://whistletv-roku-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 tvg-id="WipeoutXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" group-title="Series",Wipeout Xtra (1080p) [Offline]
+https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Entertainment",Xplore (1080p)
+https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303" group-title="Business",Yahoo! Finance (1080p)
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.nz" tvg-country="NZ" tvg-language="" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (1080p) [Offline]
+https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="Sports",ACC Network (720p) [Offline]
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents (720p) [Offline]
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Asiancrush.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Entertainment",Asiancrush (720p) [Offline]
+https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BCCGaming.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/60qMpEK.png" group-title="Comedy",BCC Gaming (720p) [Offline]
+https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="General",Bloomberg Quicktake (1080p)
+https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV (1080p)
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20210609T003452.png" group-title="Entertainment",Buzzr (1080p)
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20210609T003452.png" group-title="Entertainment",Buzzr (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="",Canela TV (720p) [Offline]
+https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="News",Cheddar News (720p)
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzI4NjE5OTZf?inline=1" group-title="Classic",Cinevault Westerns (540p) [Offline]
+https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Circle.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1" group-title="Entertainment",Circle (1080p)
+https://circle-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Entertainment",CONtv (1080p) [Not 24/7]
+https://contv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360 (720p)
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DangerTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4aTk45R.png" group-title="Documentary",Danger TV (720p)
+https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Series",Deal or No Deal (720p) [Offline]
+https://endemol-dealornodeal-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DegrassiTheNextGeneration.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mRBQKp3.png" group-title="",Degrassi The Next Generation (720p)
+https://dhx-degrassi-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",Docurama (1080p) [Offline]
+https://docurama.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DryBarComedy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l61qxIE.jpg" group-title="Comedy",DryBar Comedy (720p) [Offline]
+https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Dust.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (720p)
+https://dust.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="Sports",EDGEsport (1080p)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Sports",EDGEsport (1080p)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Sports",EDGEsport (US) (720p)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="News",Estrella News (1080p)
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/B3oElWL.jpg" group-title="Sports",ESTV (1080p)
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="Comedy",FailArmy (720p)
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FTF.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="Sports",FTF (720p)
+https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Sports",Fuel TV (720p)
+https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network East (720p) [Offline]
+https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Movies",Gravitas Movies (720p)
+https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="Cooking",Gusto TV (720p)
+https://gustotv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HollyWire.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vcrDETL.png" group-title="Religious",Holly Wire (720p)
+https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" group-title="Shop",HSN (720p)
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Hungry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="Cooking",Hungry (720p) [Offline]
+https://food.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="IGN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ff62vtM.jpg" group-title="News",IGN (1080p)
+https://ign-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="",Insight TV (720p)
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="",Insight TV (720p)
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/gKhDcQY.png" group-title="",InTrouble (1080p)
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/YqF4usD.png" group-title="",InWonder (720p)
+https://inwonder-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="Family",Ion Plus (1080p)
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.us" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (720p) [Offline]
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Documentary",Law & Crime (720p)
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LivelyPlace.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n5lMm78.png" group-title="Lifestyle",Lively Place (720p)
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MagellanTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/6osyvwh.png" group-title="",Magellan TV (720p) [Offline]
+https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (720p) [Offline]
+https://maverick-maverick-black-cinema-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV (720p) [Offline]
+https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MHzNow.us" tvg-country="US" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/MHzNow_190x190.png?raw=true" group-title="",MHz Now (720p) [Offline]
+https://mhz-samsung-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MidnightPulp.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" group-title="Entertainment",Midnight Pulp (720p)
+https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieMix.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qcgXbuC.png" group-title="",MovieMix (720p)
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere (1080p)
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network (1080p)
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NewKMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="Movies",New K-Movies (720p) [Offline]
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="NewKidTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Kids",New Kid TV (720p) [Offline]
+https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="News",Newsmax (1080p)
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy (720p)
+https://newsy.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Series",Nosey (720p) [Offline]
+https://nosey-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="Outdoor",Outside TV (720p)
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="Sports",Pac 12 Insider (1080p)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="Entertainment",People are Awesome (720p) [Offline]
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="Sports",Players TV (1080p)
+https://playerstv-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="pocketwatch.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="",pocket.watch (720p) [Offline]
+https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iJmj6zC.png" group-title="Auto",Power Nation (720p)
+https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iJmj6zC.png" group-title="Auto",Power Nation (720p)
+https://rtmtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUp.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Pursuit_Circle_190x190.png?raw=true" group-title="",Pursuit Up (720p)
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Qubo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ki7zVmW.png" group-title="Kids",Qubo (720p)
+http://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="Shop",QVC (720p)
+https://qvc.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PZ9iGaO.png" group-title="Comedy",RiffTrax (720p)
+https://rifftrax.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="General",Shout! Factory TV (720p)
+https://shout-factory.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SkillsPlusThrillsChannel3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="",Skills + Thrills Channel 3 (720p) [Offline]
+https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/46gdAeg.png" group-title="Sports",SportsGrid (720p)
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium (720p)
+https://stadium.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape (1080p)
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayQello.ca" tvg-country="CA" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true" group-title="Music",Stingray Qello (1080p)
+https://samsung.ott-channels.stingray.com/qello/master.m3u8
+#EXTINF:-1 tvg-id="STIRROutdoorAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ldh9sFG.png" group-title="Outdoor",STIRR Outdoor America (720p) [Offline]
+https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SurfNowTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06232020/SURF_NOW_TV_190x190.png?raw=true" group-title="Sports",Surf Now TV (720p) [Offline]
+https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade (720p)
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TGJunior.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cZ4pGmk.png" group-title="",TG Junior (720p)
+https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="Lifestyle",The Design Network (720p)
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective (720p)
+https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePreviewChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" group-title="",The Preview Channel (720p) [Offline]
+https://previewchannel-previewchannel-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TheYoungTurks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="News",The Young Turks (TYT) (720p)
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lbOPCEJ.png" group-title="Series",This Old House (720p)
+https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/o8ooqA1.png" group-title="",Tiny House Nation (720p) [Offline]
+https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="Kids",Toon Goggles (720p)
+https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="Entertainment",VENN (1080p)
+https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6r2YHtv.png" group-title="Outdoor",Waypoint TV (720p)
+https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeTVAbsoluteReality.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oOFjyYf.png" group-title="Entertainment",We TV Absolute Reality (720p) [Offline]
+https://amc-absolutereality-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeTVAllWeddings.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d61oA0y.png" group-title="Entertainment",We TV All Weddings (720p) [Offline]
+https://amc-allweddings-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="Weather",Weather Nation (720p)
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather",WeatherSpy (720p)
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WhistleSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",Whistle Sports (720p) [Offline]
+https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WipeoutXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" group-title="Series",Wipeout Xtra (720p) [Offline]
+https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="Entertainment",World Poker Tour (720p)
+https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Entertainment",Xplore (1080p)
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303" group-title="Business",Yahoo! Finance (1080p)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (720p) [Offline]
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting (1080p)
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png" group-title="Comedy",Comedy Dynamics (1080p)
+https://comedydynamics-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Entertainment",CONtv (1080p)
+https://contv-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Animation",CONtv Anime (1080p)
+https://contvanime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",Docurama (1080p)
+https://docurama-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel (1080p)
+https://dovenow-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/gKhDcQY.png" group-title="",InTrouble (1080p)
+https://introuble-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/YqF4usD.png" group-title="",InWonder (1080p)
+https://inwonder-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="Music",Latido Music (1080p)
+https://vidaprimo-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network (1080p)
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SoReal.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="Lifestyle",So... Real (1080p)
+https://soreal-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WhistleSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",Whistle Sports (1080p) [Offline]
+https://whistlesports-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCAbsoluteReality.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Documentary",AMC Absolute Reality (1080p)
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCIFCFilmPicks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",AMC IFC Film Picks (1080p)
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents (1080p)
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCRush.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",AMC Rush (1080p)
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCSlightlyOff.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Slightly Off (1080p)
+https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasVoice.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="News",America's Voice (720p)
+https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Ameritrade.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="Business",Ameritrade (1080p)
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AWEEncore.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60482f63cfbf071d6151ca95" group-title="General",AWE Encore (720p)
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GMAT4VE.jpg" group-title="News",Black News Channel (720p)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (720p)
+https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV (1080p) [Offline]
+https://brat-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="News",Cheddar News (1080p)
+https://cheddar-cheddar-3.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Choppertown.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522" group-title="Auto",Choppertown (1080p) [Offline]
+https://oneworlddigital-choppertown-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="",Cinevault 80s (540p)
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzI4NjE5OTZf?inline=1" group-title="Classic",Cinevault Westerns (540p)
+https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Circle.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1" group-title="Entertainment",Circle (1080p)
+https://circle-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Entertainment",CONtv (1080p) [Not 24/7]
+https://contv.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Animation",CONtv Anime (1080p)
+https://contvanime-vizio-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Series",Dark Matter TV (720p)
+https://dmtv-viziosc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DemandAfrica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title="Lifestyle",Demand Africa (720p) [Offline]
+https://demandafrica-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DocTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fGioE7e.png" group-title="Series",Doc TV (1080p) [Offline]
+https://wownow-doctv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel (1080p)
+https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Dust.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p) [Offline]
+https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="Comedy",FailArmy (1080p)
+https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Fawesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PbvhJKs.png" group-title="Entertainment",Fawesome (720p) [Offline]
+https://fawesome-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FlixFling.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/p41hq1Q.png" group-title="General",FlixFling (1080p)
+https://flixfling-flixflingnow-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FunnyorDie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PMMsywm.png" group-title="Comedy",Funny or Die (720p) [Offline]
+https://funnyordie-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network East (1080p)
+https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GiggleMug.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hWbVgsR.jpg" group-title="Kids",Giggle Mug (720p)
+https://janson-gigglemug-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GlewedTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/W4Bx9pG.jpg" group-title="General",Glewed TV (1080p)
+https://glewedtv-3.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Movies",Gravitas Movies (720p)
+https://gravitas-movies.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="Cooking",Gusto TV (720p)
+https://gustotv-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Kids",HappyKids (720p)
+https://happykids-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Kids",HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HNCFree.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xXr4Cnq.png" group-title="",HNC Free (1080p)
+https://hncfree-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Hometalk.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J09XrLH.png" group-title="Lifestyle",Hometalk (1080p)
+https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="iFoodTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GnmHLNB.png" group-title="Cooking",iFood.TV (720p)
+https://ifood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/gKhDcQY.png" group-title="",InTrouble (1080p) [Offline]
+https://introuble-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/YqF4usD.png" group-title="",InWonder (1080p) [Offline]
+https://inwonder-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="Family",Ion Plus (1080p)
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="IonQubo.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/Qubo_logo_2012.png/revision/latest?cb=20150915211649" group-title="Kids",Ion Qubo (720p)
+https://ion-qubo-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9ad014a38d8c466108e97a" group-title="Classic",Johnny Carson TV (720p)
+https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JudgeFaith.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VMJvKbC.png" group-title="Series",Judge Faith (1080p)
+https://judge-faith-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.us" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",Kidoodle.TV (1080p)
+http://kidoodletv-kdtv-3.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="Music",Latido Music (720p)
+https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="Music",Latido Music (720p)
+https://vidaprimo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGOChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",LEGO Channels (720p)
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MagellanTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="Documentary",Magellan TV (720p)
+https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OEamqFg.png" group-title="Movies",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-2.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV (1080p)
+https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MidnightPulp.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" group-title="Entertainment",Midnight Pulp (1080p)
+https://midnightpulp-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MonsterMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qwHxh55.png" group-title="Movies",Monster Movies (1080p) [Offline]
+https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9ace054964ba19ff258256" group-title="Comedy",Mystery Science Theater 3000 (1080p)
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network (1080p)
+https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg" group-title="News",Newsmax (1080p)
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy (1080p)
+https://newsy-newsy-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jlUuE2j.png" group-title="Series",Nosey (1080p)
+https://nosey-realnosey-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="News",OAN (1080p)
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="Outdoor",Outside TV (720p)
+https://outside-tv-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="Sports",Pac 12 Insider (720p)
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="Entertainment",People are Awesome (1080p)
+https://jukin-peopleareawesome-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayWorks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/McoboB1.png" group-title="Entertainment",Play.Works (1080p)
+https://playworksdigital-playworks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="Sports",Players TV (1080p)
+https://playerstv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="pocketwatch.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="",pocket.watch (720p)
+https://pocketwatch-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealTruthCrime.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Real Truth Crime [Offline]
+https://endemol-reeltruthcrime-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Restore.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertainment",Restore [Offline]
+https://endemol-restore-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PZ9iGaO.png" group-title="Comedy",RiffTrax (720p)
+https://rifftrax-2.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="General",Shout! Factory TV (720p)
+https://shout-factory.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/46gdAeg.png" group-title="Sports",SportsGrid (1080p)
+https://sportsgrid-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Spotlight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/g9zxqSd.jpg" group-title="",Spotlight (1080p)
+https://spotlight-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9zRYK8n.jpg" group-title="Kids",Super Simple Songs (720p)
+https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Tankee.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oMWbZ8n.png" group-title="Kids",Tankee (720p)
+https://playworksdigital-tankee-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade (1080p)
+https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Travel (720p)
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="Culture",The Bob Ross Channel (1080p)
+https://cinedigm-bobross-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dEmt8Fv.png" group-title="Classic",The Carol Burnett Show (1080p)
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFirst.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc953ab6426646dbd7347b4" group-title="News",The First (720p)
+https://thefirst-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective (1080p)
+https://the-pet-collective-linear.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePreviewChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" group-title="",The Preview Channel (720p)
+https://previewchannel-previewchannel-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="Kids",Toon Goggles (1080p) [Offline]
+https://toon-goggles-samsung.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="Entertainment",VENN (1080p)
+https://venntv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WeTVAllWeddings.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d61oA0y.png" group-title="Entertainment",We TV All Weddings (1080p)
+https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather",WeatherSpy (1080p)
+https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WhistleSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",Whistle Sports (720p) [Offline]
+https://whistle-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Wipeout.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cII7j51.png" group-title="Series",Wipeout [Offline]
+https://endemol-wipeoutxtra-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WowNowKids.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AWXw9LW.jpg" group-title="Kids",Wow Now Kids (1080p) [Offline]
+https://wownow-wownowkids-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Entertainment",Xplore (1080p)
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303" group-title="Business",Yahoo! Finance (720p)
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
+https://younghollywood-vizio.amagi.tv/playlist.m3u8
